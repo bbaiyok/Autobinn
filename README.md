@@ -22,23 +22,8 @@ _________________________________________________________________________
 3. สามารถแก้ปัญหาการทิ้งขยะตามบริเวณใกล้เคียงได้
 
 วัสดุอุปกรณ์
-
 1. ถังขยะฝาปิดปิด
-
- [![image][https://user-images.githubusercontent.com/97897991/149807181-957c01e5-c717-4564-be90-2949da031859.png]
- 
 2. Arduino Uno
-
- [![image][https://user-images.githubusercontent.com/97897991/149807145-e2e70e80-9445-41df-aa0e-4ae5544448b6.jpg]
- 
 3. Sensor IR
-
- [![image][https://user-images.githubusercontent.com/97897991/149807178-dc21e8ae-97ca-4afa-ae13-ba4b04af0b6b.png]
- 
 4. Power Bank
-
- [![image][https://user-images.githubusercontent.com/97897991/149807174-9068a89a-ba0a-483a-8958-ae742443d7c8.png]
- 
 5. สายจั๊มเปอร์
-
- [![image][https://user-images.githubusercontent.com/97897991/149807186-8b2f16f4-8175-4d45-9eaf-12218d60d7fc.png]
