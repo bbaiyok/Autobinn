@@ -24,16 +24,16 @@ _________________________________________________________________________
 วัสดุอุปกรณ์
 
 1. ถังขยะฝาปิดปิด
- [![alt][https://user-images.githubusercontent.com/97897991/149807181-957c01e5-c717-4564-be90-2949da031859.png]
+ [![alt][https://user-images.githubusercontent.com/97897991/149807181-957c01e5-c717-4564-be90-2949da031859.png](clickToLink)
  
 2. Arduino Uno
- [![alt][https://user-images.githubusercontent.com/97897991/149807145-e2e70e80-9445-41df-aa0e-4ae5544448b6.jpg]
+ [![alt][https://user-images.githubusercontent.com/97897991/149807145-e2e70e80-9445-41df-aa0e-4ae5544448b6.jpg](clickToLink)
  
 3. Sensor IR
- [![alt][https://user-images.githubusercontent.com/97897991/149807178-dc21e8ae-97ca-4afa-ae13-ba4b04af0b6b.png]
+ [![alt][https://user-images.githubusercontent.com/97897991/149807178-dc21e8ae-97ca-4afa-ae13-ba4b04af0b6b.png](clickToLink)
  
 4. Power Bank
- [![alt][https://user-images.githubusercontent.com/97897991/149807174-9068a89a-ba0a-483a-8958-ae742443d7c8.png]
+ [![alt][https://user-images.githubusercontent.com/97897991/149807174-9068a89a-ba0a-483a-8958-ae742443d7c8.png](clickToLink)
  
 5. สายจั๊มเปอร์
- [![alt][https://user-images.githubusercontent.com/97897991/149807186-8b2f16f4-8175-4d45-9eaf-12218d60d7fc.png]
+ [![alt][https://user-images.githubusercontent.com/97897991/149807186-8b2f16f4-8175-4d45-9eaf-12218d60d7fc.png](clickToLink)
